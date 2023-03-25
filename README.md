@@ -45,18 +45,3 @@
 执行方法支持类型
 
 <img src="https://github.com/Mocha-L/QuJing/blob/master/image/%E6%89%A7%E8%A1%8C%E6%96%B9%E6%B3%95.png" width="1000px" />
-
-
-## 问题交流
-
-如有疑问可以提issue，也欢迎大家进一步优化和提交PR。
-
-也欢迎进入我的知识星球“爬虫三十六计”。
-
-<img src="https://github.com/Mocha-L/QuJing/blob/master/image/%E6%98%9F%E7%90%83.png" width="400px" />
-
-## 鸣谢
-
-项目依据[xserver](https://github.com/monkeylord/XServer)优化而来，感谢原作者。
-
-感谢[@小黄鸭爱学习](https://github.com/HuRuWo)的帮助优化，解决部分情况下classloader错误的问题。
